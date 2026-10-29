@@ -21,3 +21,8 @@ Understand how AI agents interact with external systems and how to design safe, 
 Currently learning GitHub and API fundamentals.
 
 Note: This project uses fictional patient information only.
+## Planned Features
+
+- Appointment cancellation
+- Appointment rescheduling
+- Patient identity verification
